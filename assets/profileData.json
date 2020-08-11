@@ -1,0 +1,71 @@
+{
+    "name": "Vivek Sharma",
+    "designation": "Looking for SDE roles",
+    "email": "offvivek524@gmail.com",
+    "mobile": "+91-8909048705",
+    "address": "Agra, Uttar Pradesh- 282010",
+    "resume": "https://drive.google.com/file/d/1xT_U6zf8jofdZ1TzMmZPz3n6PzfTwbnZ/view?usp=sharing",
+    "profile-pic-location":"../../assets/profile-pic.png",
+    "description": "Competitive Programmer | 3-star Codechef | Android enthusiat | Web development enthusiast",
+    "smallDescription": "I am 2020 graduate with demonstrated history in working with Java in problem solving and android development while writing efficient code using data structures and algorithm. I am a quick learner and believe in building stuff while learning. ",
+    "education": [{
+                    "school":"Raja Balwant Singh Engineering Technical Campus",
+                    "batch":"B.Tech, 2016-20",
+                    "cgpa":"7.7"},
+                {
+                    "school":"Symboyzia School",
+                    "batch":"HSC, 2014-16",
+                    "cgpa":"82.4"},
+                {
+                    "school":"Symboyzia School",
+                    "batch":"SSC, 2012-14",
+                    "cgpa":"87.4"}
+                    ],
+    "skills" : {
+                    "languages":["C", "Java (Proficient)", "JavaScript", "Typescript"],
+                    "frameworks":["Angular - Command Line Interface", "Bootstrap"],
+                    "databases":["MySQL", "Firebase Cloud"],
+                    "tools":["Android Studio", "Visual Studio", "Eclipse", "Photoshop"],
+                    "other skills":["HTML", "CSS", "Android"]
+
+                },
+    "online-coding":{
+                        "codechef":"https://www.codechef.com/users/vivek_vashista",
+                        "codeforces":"https://codeforces.com/profile/offvivek524",
+                        "hackerearth":"https://www.hackerearth.com/@vivek1540",
+                        "github": "https://github.com/Vivekvashista",
+                        "linkedin":"https://www.linkedin.com/in/vivekvashista/"
+                    },
+    "hobbies": ["Gyming", "Travelling", "Exploring tech stuff"],
+    "languages": ["Hindi", "English"],
+    "projects": [{
+                    "title": "ParkSmart Android App",
+                    "desc": "ParkSmart is the solution for smart cities. Realtime Database Updation, FireBase APIs, Responsive UI.",
+                    "link": "https://bit.ly/36N9CGr"
+                },
+                {
+                    "title": "Product Management Portal",
+                    "desc": "This is an angular based web app used to register, Update, delete and view the products.",
+                    "link": "https://vivekpmp.netlify.app"
+                },
+                {
+                    "title": "Memory Game",
+                    "desc": "It’s a memory game for kids, hosted on Github and Netlify.",
+                    "link": "https://vivekvashistagame.netlify.app/"
+                },
+                {
+                    "title": "Educational Android App",
+                    "desc": "It’s a Node.js tutorial app which introduces the learner to basics of Node.js concepts in one place.",
+                    "link": "https://bit.ly/2M0qlw8"
+                },
+                {
+                    "title": "Student Tracking System",
+                    "desc": "This is a Dynamic Web Application.",
+                    "link": "#"
+                }],
+    "achievements": ["Shortlisted for Interview in Microsoft’s Internship program called TECH-SET-GO 2018.",
+                    "Secured Rank-1793 among 55,654 participants in Pre-Qualifier Round of CODEVITA-8.",
+                    "Won badges in HackerRank SQL, JavaScript section.",
+                    "Secured 536 among 5600 participants in CodeChef’s March Cook-Off.",
+                    "Secured 355 among 3500 participants in Codechef Campus Chapter."]
+}
